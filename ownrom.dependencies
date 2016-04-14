@@ -3,6 +3,15 @@
   {
     "repository": "android_device_google_sprout-common",
     "target_path": "device/google/sprout-common"
+  },
+  {
+    "repository": "OwnKernel-sprout",
+    "target_path": "kernel/mediatek/sprout"
+  },
+  {
+    "repository": "proprietary_vendor_google",
+    "target_path": "vendor/google"
   }
+  
  
 ]
